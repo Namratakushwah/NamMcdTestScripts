@@ -1,0 +1,21 @@
+currentApp web
+launch chrome browser  <class 'selenium.webdriver.chrome.webdriver.WebDriver'>
+yeidling driver instance condition
+Launch Chrome Browser
+Opened McD Website
+Verifying McD Website
+Clicking on view Icon
+comign to click web element
+Clicked View Icon On Home Page
+Verifying View Page
+Clicking on Login/Sign Up Button
+comign to click web element
+Clicked Profile Icon On Home Page
+Verifying Login Page Navigation
+Visually inspect the mobile number field
+Visually inspect the mobile number field
+Visually inspect the mobile number field
+Visually inspect the mobile number field
+Validating visibility, alignment, and non-overlapping of UI elements
+after yielding driver
+Inside tear down for web 

@@ -1,0 +1,1 @@
+[35mDEBUG   [0m pytest_bdd.scenario:scenario.py:150 Adding providers for fixture 'pytestbdd_stepimpl_given_I open the Chrome browser': [<FixtureDef argname='pytestbdd_stepdef_given_I open the Chrome browser' scope='function' baseid='tests/step_defs/test_mcd_sanity_validations.py'>]

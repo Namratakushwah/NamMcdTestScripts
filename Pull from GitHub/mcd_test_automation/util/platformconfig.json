@@ -1,0 +1,15 @@
+{
+    "android": {
+        "platformName": "Android",
+        "appium:deviceName": "Fire TV",
+        "appium:automationName": "UiAutomator2",
+        "appium:app": "",
+        "noReset": true,
+        "fullReset": false
+    },
+    "web": {
+       
+        "noReset": true,
+        "fullReset": false
+    }
+}
